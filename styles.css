@@ -23,7 +23,7 @@ body
 }
 .latest-news-section
 {
-	width:500px;
+	width:300px;
 	border:1px ridge white;
 	border-radius:20px;
 	padding:20px;
@@ -60,6 +60,7 @@ body
 	padding:10px;
 	background-color:lightgray;
 	text-align:center;
+	justify-content:center;
 	
 	
 }
